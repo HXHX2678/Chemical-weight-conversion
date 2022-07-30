@@ -7,5 +7,4 @@ Volume molar concentration converted to grams caculator(M to g)
 3. Solution volume
 
 # Photo
-![未命名-1](https://user-images.githubusercontent.com/62589247/181877152-5bdf8f93-c8b6-4b09-be03-106ca9b3204e.png)
-
+![未命名-1](https://user-images.githubusercontent.com/62589247/181877455-81c5c1fd-3d37-456d-94f3-d14462674796.png)
